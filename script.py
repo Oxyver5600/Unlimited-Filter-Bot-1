@@ -37,18 +37,18 @@ See <i>/help</i> for commands and more details.</b>
 ➠ /info userid - Show User Information. Use '/info' as reply to some message for their details!
 
 
-<b>Made with Thunder ⚡ by ➜ <a href="https://telegram.dog/dlaize">Mr. Dlaize</a></b>
+<b>Made with Thunder ⚡ by ➜ <a href="https://t.me/Oxyver_Owner">꧁𒆜🅻🆄🅲🅺🆈𒆜꧂</a></b>
 """
 
 
     ABOUT_MSG = """
 <b><u>About Me:</u></b>
 🏷️ Bot : Bee Unlimited Filter Bot
-🏷️ Creator : <a href="https://telegram.dog/dlaize"><b>Mr. Dlaize</b></a>
+🏷️ Creator : <a href="https://t.me/Oxyver_Owner"><b>꧁𒆜🅻🆄🅲🅺🆈𒆜꧂</b></a>
 🏷️ Language : <a href='https://python.org/'>Python3</a>
 🏷️ Library : <a href='https://docs.pyrogram.org/'>Pyrogram 1.2.0</a> 
 🏷️ Server : <a href='https://www.heroku.com/'>Heroku</a>
-🏷️ Channel : <a href="https://telegram.dog/compass_botz"><b>Compass Bot</b></a>
+🏷️ Channel : <a href="https://t.me/Mdisk_Video_Movie_Webseries_2"><b>Movie Channel</b></a>
 
-📱 Suggestion & Feedback ➜ <a href="https://telegram.dog/dlaize"><b>Mr. Dlaize</b></a>
+📱 Suggestion & Feedback ➜ <a href="https://t.me/Oxyver_Owner"><b>꧁𒆜🅻🆄🅲🅺🆈𒆜꧂</b></a>
 """
