@@ -81,7 +81,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Oxyver5600/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Oxyver5600/Unlimited-Filter-Bot-1)
 
 ### Deploy in your vps
 ```sh
